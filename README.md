@@ -7,3 +7,4 @@ The team is based in Mainland China.
 所有提供的程式碼、與工程文件均適用GPL協議。
 本隊伍的歸屬地為中國大陸（內地）。
 
+<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/0aecc175-1728-4cfd-a489-a49d78562d7a" />
